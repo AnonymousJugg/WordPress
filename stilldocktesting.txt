@@ -1,0 +1,13 @@
+<?php
+
+
+
+$var = getenv('TESTME');
+
+
+
+print $var;
+
+
+
+?>
